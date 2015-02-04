@@ -1,0 +1,47 @@
+D:\projects\KP(test)\bin\Debug\KP(test).exe.config
+D:\projects\KP(test)\bin\Debug\KP(test).exe
+D:\projects\KP(test)\bin\Debug\KP(test).pdb
+D:\projects\KP(test)\obj\Debug\KP_test_.Form1.resources
+D:\projects\KP(test)\obj\Debug\KP_test_.Properties.Resources.resources
+D:\projects\KP(test)\obj\Debug\KP(test).csproj.GenerateResource.Cache
+D:\projects\KP(test)\obj\Debug\KP(test).exe
+D:\projects\KP(test)\obj\Debug\KP(test).pdb
+D:\projects\KP(test)\obj\Debug\KP(test).csprojResolveAssemblyReference.cache
+D:\projects\KP(test)\obj\Debug\KP_test_.Form2.resources
+D:\projects\KP(test)\obj\Debug\KP_test_.Form3.resources
+D:\7 Семестр\Курсовой проект\KP(test)\bin\Debug\KP(test).exe.config
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP(test).exe
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP(test).pdb
+D:\7 Семестр\Курсовой проект\KP(test)\bin\Debug\KP(test).exe
+D:\7 Семестр\Курсовой проект\KP(test)\bin\Debug\KP(test).pdb
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP(test).csprojResolveAssemblyReference.cache
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form1.resources
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form2.resources
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form3.resources
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP_test_.Properties.Resources.resources
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP(test).csproj.GenerateResource.Cache
+D:\7 Семестр\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form4.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\bin\Debug\KP(test).exe.config
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP(test).exe
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP(test).pdb
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\bin\Debug\KP(test).exe
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\bin\Debug\KP(test).pdb
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP(test).csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form1.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form2.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form3.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form4.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP_test_.Properties.Resources.resources
+C:\Users\Павел\Desktop\Курсовой проект\KP(test)\obj\Debug\KP(test).csproj.GenerateResource.Cache
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\bin\Debug\KP(test).exe.config
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP(test).exe
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP(test).pdb
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\bin\Debug\KP(test).exe
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\bin\Debug\KP(test).pdb
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP(test).csprojResolveAssemblyReference.cache
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form1.resources
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form2.resources
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form3.resources
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP_test_.Form4.resources
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP_test_.Properties.Resources.resources
+F:\7 семестр\7 Семестр\Защита данных\Курсовой проект\KP(test)\obj\Debug\KP(test).csproj.GenerateResource.Cache
